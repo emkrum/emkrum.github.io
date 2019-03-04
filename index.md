@@ -11,12 +11,16 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Emily Krum
+## Portfolio
+### Mobile Web Dev.
 
-- Bulleted
-- List
+- Media Queries Portfolio Page (your home page)
+- Resumé Using Skeleton
+- Bootstrap Website
+- Sass 
+- Industry Exploration
+- Git Repository
 
 1. Numbered
 2. List
